@@ -4,7 +4,7 @@ import { AiOutlineSend } from 'react-icons/ai'
 function Footer() {
     return (
         <Box bgColor={'blackAlpha.900'} minH={'40'} p="16" color={'white'}>
-            <Stack direction={['colum', 'row']} >
+            <Stack direction={['column', 'row']} >
                 <VStack alignItems={'stretch'} w={'full'}>
                     <Heading
                         textTransform={'uppercase'}
